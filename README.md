@@ -12,19 +12,3 @@ I'm **Abiy Aragie**, a Software Engineering student at **Addis Ababa University*
   - Portfolio: [View my portfolio](https://your-portfolio-url.vercel.app)
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
-### Tech Stack
-
-**Frontend:**
-- React, JavaScript, TypeScript
-- Tailwind CSS, React Router
-- Vite, React Query
-
-**Backend:**
-- Node.js, Express.js
-- MongoDB, Mongoose
-- JWT, REST APIs
-
-**Tools:**
-- Git, GitHub
-- VS Code, Postman
-
