@@ -9,6 +9,6 @@ I'm **Abiy Aragie**, a Software Engineering student at **Addis Ababa University*
 - 📫 How to reach me: 
   - Email: aragieabiy@gmail.com
   - LinkedIn: [abiy-aragie-963b45388](https://www.linkedin.com/in/abiy-aragie-963b45388/)
-  - Portfolio: [View my portfolio](https://your-portfolio-url.vercel.app)
+  - Portfolio: [View my portfolio](https://iceabiy.vercel.app)
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
