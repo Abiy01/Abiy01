@@ -27,22 +27,4 @@ I'm **Abiy Aragie**, a Software Engineering student at **Addis Ababa University*
 **Tools:**
 - Git, GitHub
 - VS Code, Postman
-- Docker, AWS
-
-### Projects
-
-- 🛒 [E-Commerce Website](https://lexury-ecommerce-website.vercel.app) - Full-featured e-commerce platform
-- 💼 [Job Portal Website](https://aau-intern-internship-website.vercel.app) - Job portal connecting seekers with employers
-- 📝 [Blog Website](https://ablog-blog-website.vercel.app) - Modern blog platform with rich text editing
-- 🏥 [Hospital Management System](https://hospital-management-system-seven-livid.vercel.app) - Comprehensive hospital management solution
-
-### GitHub Stats
-
-![Abiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abiy01&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiy01&layout=compact&theme=dark)
-
----
-
-⭐️ From [Abiy01](https://github.com/Abiy01)
 
